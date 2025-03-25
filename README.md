@@ -9,3 +9,10 @@ Summary of .py files:
 7. MakeCoulombMatrixAndCrystalRep-fullySeparated.py - Constructs the Coulomb matrix representation for each structure.
 8. MakeCrystalGraphRep-TDDFT-fullySeparated.py - Constructs the crystal graph singular value representations for each structure.
 9. MakeOrientationDescriptors-fullySeparated.py - Constructs descriptors describing orientation of the target material.
+
+
+If used, please cite:
+
+[1] Shapera, Ethan P., and Cheng-Wei Lee. "Neural networks for the prediction of electronic excitation dynamics." Physical Review A 111.1 (2025): 012806.
+
+[2]Shapera, Ethan P., et al. "Machine learning assisted prediction of organic salt structure properties." npj Computational Materials 10.1 (2024): 176.
